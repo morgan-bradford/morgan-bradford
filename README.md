@@ -1,7 +1,7 @@
-<h1>Hi, I'm Morgan! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Morgan! <br/><a href="https://www.linkedin.com/in/morgan-bradford-46b664227/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/morgan-bradford/LABURL)
+- [Active Directory Home Lab](https://github.com/morgan-bradford/Active-Directory-Lab)
 - [Implementing a SOC and Honeynet in Azure](https://github.com/morgan-bradford/LABURL)
 
 <h2> 🤳 Connect with me:</h2>
